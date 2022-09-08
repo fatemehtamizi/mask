@@ -1,0 +1,129 @@
+.logo{
+    float: right;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+
+.content{
+    margin-right: 650px;
+    direction: rtl;
+}
+
+.search-input{
+    padding: 10px;
+ background: #eee;
+ border: 1px solid #ddd;
+ border-radius: 0 5px 5px 0;
+
+}
+
+p{
+    font-family:Parastoo;
+    font-size: 15px;
+    direction: rtl;
+    margin-right: 15px;
+    font-size: VazirBold;
+}
+
+.search-button{
+    padding: 10px 15px;
+ background: #228acf;
+ border: 1px solid #228acf;
+ color: white;
+ position: relative;
+left: 5px;
+border-left: none;
+border-radius: 5px 0 0 5px;
+
+}
+
+
+.header{
+    height: 50px;
+    width: 100%;
+    background:#cccccc ;
+    position: relative;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+}
+
+.nav-links{
+    padding: 10px;
+    direction: rtl;
+}
+
+.nav-links li{
+    display: inline;
+    margin: 10px;
+    font-family: IranNastaliq;
+    font-size: 25px;
+
+}
+
+h3{
+    direction: rtl;
+    margin-right: 20px;
+    font-family:IranNastaliq;
+    font-size: 35px;
+}
+
+img{
+    margin-left: 350px;
+}
+
+table,th,tr,td{
+    border:#444444 1px solid;
+    border-collapse: collapse;
+    margin-left: 40px;
+    direction: rtl;
+}
+
+tr :hover{
+    background-color: blanchedalmond;
+}
+
+
+.container{
+    display: flex;
+    margin-left: 135px;
+}
+
+.table1{
+    margin-right: 40px;
+}
+
+.table2{
+    margin-left: 40px;
+}
+
+video{
+    margin-left: 350px;
+}
+
+.footer{
+    margin-top: 150px;
+    width: 100%;
+    height: 200px;
+    background: #cccccc;
+    position: relative;
+}
+
+p{
+    font-family:Parastoo ;
+}
+
+.icon{
+    font-size: 30px;
+    margin-left: 850px;
+
+}
+
+.images{
+    float: left;
+}
